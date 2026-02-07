@@ -15,11 +15,11 @@ A simple yet powerful Todo API built with the Rust programming language using th
 
 ## API Endpoints
 ```
-Method	Endpoint	Description
-GET	/api/           status check
-GET	/api/todos	Get all todos
-POST	/api/todos	Create a new todo
-PUT	/api/todos/<id>	Update a todo by ID
+Method	Endpoint	      Description
+GET	    /api/           status check
+GET	    /api/todos      Get all todos
+POST	  /api/todos      Create a new todo
+PUT	    /api/todos/<id>	Update a todo by ID
 DELETE	/api/todos/<id>	Delete a todo by ID
 ```
 
